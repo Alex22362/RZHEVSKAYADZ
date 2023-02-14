@@ -1,0 +1,15 @@
+C:\Users\Александра\Desktop\Rabotta\RZHEVSKAYADZ\obj\Debug\net6.0\RZHEVSKAYADZ.csproj.AssemblyReference.cache
+C:\Users\Александра\Desktop\Rabotta\RZHEVSKAYADZ\obj\Debug\net6.0\RZHEVSKAYADZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александра\Desktop\Rabotta\RZHEVSKAYADZ\obj\Debug\net6.0\RZHEVSKAYADZ.AssemblyInfoInputs.cache
+C:\Users\Александра\Desktop\Rabotta\RZHEVSKAYADZ\obj\Debug\net6.0\RZHEVSKAYADZ.AssemblyInfo.cs
+C:\Users\Александра\Desktop\Rabotta\RZHEVSKAYADZ\obj\Debug\net6.0\RZHEVSKAYADZ.csproj.CoreCompileInputs.cache
+C:\Users\Александра\Desktop\Rabotta\RZHEVSKAYADZ\bin\Debug\net6.0\RZHEVSKAYADZ.exe
+C:\Users\Александра\Desktop\Rabotta\RZHEVSKAYADZ\bin\Debug\net6.0\RZHEVSKAYADZ.deps.json
+C:\Users\Александра\Desktop\Rabotta\RZHEVSKAYADZ\bin\Debug\net6.0\RZHEVSKAYADZ.runtimeconfig.json
+C:\Users\Александра\Desktop\Rabotta\RZHEVSKAYADZ\bin\Debug\net6.0\RZHEVSKAYADZ.dll
+C:\Users\Александра\Desktop\Rabotta\RZHEVSKAYADZ\bin\Debug\net6.0\RZHEVSKAYADZ.pdb
+C:\Users\Александра\Desktop\Rabotta\RZHEVSKAYADZ\obj\Debug\net6.0\RZHEVSKAYADZ.dll
+C:\Users\Александра\Desktop\Rabotta\RZHEVSKAYADZ\obj\Debug\net6.0\refint\RZHEVSKAYADZ.dll
+C:\Users\Александра\Desktop\Rabotta\RZHEVSKAYADZ\obj\Debug\net6.0\RZHEVSKAYADZ.pdb
+C:\Users\Александра\Desktop\Rabotta\RZHEVSKAYADZ\obj\Debug\net6.0\RZHEVSKAYADZ.genruntimeconfig.cache
+C:\Users\Александра\Desktop\Rabotta\RZHEVSKAYADZ\obj\Debug\net6.0\ref\RZHEVSKAYADZ.dll
